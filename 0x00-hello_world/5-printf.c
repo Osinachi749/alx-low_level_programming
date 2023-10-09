@@ -1,6 +1,7 @@
 #include<stdio.h>
 /**
-* main - A program that with proper grammar, but the outcome is a piece of* Return: Always 0 (Success)
+* main - Entry point 
+* Return: Always 0 (Success)
 */
 int main(void)
 {
